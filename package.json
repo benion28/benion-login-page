@@ -1,0 +1,16 @@
+{
+  "name": "benion-login-page",
+  "version": "1.0.0",
+  "description": "A Login Page Using HTML & CSS",
+  "main": "index.js",
+  "homepage": "https://benion28.github.io/benion-login-page/",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d dist"
+  },
+  "author": "Bernard Iorver",
+  "license": "MIT",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
